@@ -1,0 +1,10 @@
+welcome to my python project repository here i upload my current python projects
+
+moving rectangles:
+	->it is a basic python program using pygame 2D rendering library
+	->in this program square move at a set speed and color their size can also be altered and the screen size is also editable
+	->it can be used as pygame basic example code to learn how pygame works
+
+alpha:
+	->it is a open source project currently under development
+ 
